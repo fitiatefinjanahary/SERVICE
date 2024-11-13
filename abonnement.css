@@ -1,0 +1,33 @@
+.nav{
+    display: inline-flex;
+ }
+ .nav ul li a{
+     text-decoration-line: none;
+     color: black;
+     font-size: 20px;
+ }
+ .nav ul li{
+     text-decoration: none;
+     display: inline-block;
+     margin: 25px;
+ }
+ .col ul{
+   background-color: rgb(30, 28, 28);
+ }
+ .col ul a{
+    color: white;
+    text-decoration-line: none;
+ }
+ .article{
+    margin: 20px;
+ }
+ .article ul a i{
+    color: rgb(221, 21, 21);
+ }
+ .article ul a{
+    color: rgb(21, 21, 156);
+    text-decoration-line: none;
+ }
+ @media (max-width 500px) {
+   
+ }
